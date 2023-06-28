@@ -1,11 +1,14 @@
-.menu{
+ .menu[
+    width: 4629px;
+    height: 232px;
+    background: #28777C;
+]
+.menu-texto{
     color: #131111;
 font-size: 74.476px;
 font-family: Inter;
 }
 
-.menu-texto{
-    color: #000;
-    font-size: 74.476px;
-    font-family: Inter;
+.cabecalho{
+    
 }
